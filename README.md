@@ -8,5 +8,5 @@
     ✅ Integer
     ✅ Boolean
     ✅ Array
-    ⏳Null
-    ⏳Object
+    ✅Null
+    ✅Object

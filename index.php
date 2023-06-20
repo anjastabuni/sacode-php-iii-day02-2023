@@ -28,6 +28,10 @@ $or = $true || $false;
 
 // Tipe Data Array
 $nama = array('Sam', 'Billy', 'Anjas', 'Alpais');
+
+// Tipe Data Null
+$null = null;
+var_dump($null);
 ?>
 
 <!doctype html>
